@@ -1,24 +1,14 @@
-<h1>Hi, I'm Katie! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Katie!</h1>
+
+I'm a young data analyst and soon to be graduate (May 2025!) from Belmont University's Data Science program. I love statistics, coding, and books, so feel free to [connect with me](https://www.linkedin.com/in/katherine-aebi-89888a236/) if you share any of those interests or just feel like saying hello. 
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Aggregation</b>
-  - [Praciting Data Aggregation with NYT Book Data](https://github.com/katieaebi/Unifying-Data-in-Literary-Publishing/blob/main/README.md)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Practicing Data Aggregation</b>
+  - [Dataset Building with NYT Book Data](https://github.com/katieaebi/Unifying-Data-in-Literary-Publishing/blob/main/README.md)
+- <b>Statistical Computing</b>
+  - [Chance Model and Permutation Test with UFO Data](https://github.com/katieaebi/StatComp_final/blob/main/README.md)
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **katieaebi/katieaebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
