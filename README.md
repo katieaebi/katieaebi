@@ -1,4 +1,4 @@
-<h1>Hi, I'm Katie!</h1>
+<h1>Hi, I'm Katherine!</h1>
 
 I'm a young data analyst and soon to be graduate (May 2025!) from Belmont University's Data Science program. I love statistics, coding, and books, so feel free to [connect with me](https://www.linkedin.com/in/katherine-aebi-89888a236/) if you share any of those interests or just feel like saying hello. 
 
